@@ -6,10 +6,6 @@ Budget Town was designed to give users a fast and easy way to track their money.
 
 I learned a lot about progressive web applications through the completion of this project. Specifically, I learned how to use IndexedDB and service workers to allow use of offline features.
 
-- [Installation](#installation)
-- [Demo](#demo)
-- [Author](#author)
-
 ## Installation 🚀
 
 - Clone the repository to the directory of your choice
