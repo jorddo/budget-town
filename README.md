@@ -17,12 +17,12 @@ I learned a lot about progressive web applications through the completion of thi
 
       npm run start
 
-## Demo
+## Demo 📷
 
 - [Live App](https://boiling-escarpment-05254.herokuapp.com/)
 
 ![screenshot](https://user-images.githubusercontent.com/94631019/169698021-b089a8a1-26e2-421b-847d-13bf78290c2b.png)
 
-## Author
+## Author ✏️
 
 - [jorddo](https://github.com/jorddo)
